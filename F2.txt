@@ -1,0 +1,4 @@
+hello hi hello
+my name is sasha and yours sasha too? 
+
+Номер слова с максимальным кол-вом букв a: 25. Само слово: aaaaaaaa
